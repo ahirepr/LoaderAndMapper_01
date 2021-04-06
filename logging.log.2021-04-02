@@ -1,0 +1,52 @@
+[INFO] 2021-04-02 19:08:02,220 com.logilite.training.csvtodatabase.ReaderCs main - Application start
+[INFO] 2021-04-02 19:08:02,222 com.logilite.training.csvtodatabase.ReaderCs main - customer.csv..............
+[INFO] 2021-04-02 19:08:02,222 com.logilite.training.csvtodatabase.ReaderCs main - customer:..............
+[INFO] 2021-04-02 19:08:02,223 com.logilite.training.csvtodatabase.ReaderCs main - customer  <--tableName
+[INFO] 2021-04-02 19:08:02,223 com.logilite.training.csvtodatabase.ReaderCs readPropertiesFile - property files are readed
+[INFO] 2021-04-02 19:08:02,224 com.logilite.training.csvtodatabase.ReaderCs readcsvfile - customer_fname,customer_lname,customer_age ---
+[INFO] 2021-04-02 19:08:02,224 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - insert into customer(customer_fname,customer_lname,customer_age) values('sachin','patil','23');
+[INFO] 2021-04-02 19:08:02,236 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - ____________________________________
+[INFO] 2021-04-02 19:08:02,237 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - table is already present
+[INFO] 2021-04-02 19:08:02,238 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - Records store
+[INFO] 2021-04-02 19:08:02,239 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - insert into customer(customer_fname,customer_lname,customer_age) values('Samadhan','Rathi','40');
+[INFO] 2021-04-02 19:08:02,240 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - ____________________________________
+[INFO] 2021-04-02 19:08:02,240 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - table is already present
+[INFO] 2021-04-02 19:08:02,241 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - Records store
+[INFO] 2021-04-02 19:08:02,241 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - insert into customer(customer_fname,customer_lname,customer_age) values('','','23');
+[INFO] 2021-04-02 19:08:02,242 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - ____________________________________
+[INFO] 2021-04-02 19:08:02,243 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - table is already present
+[INFO] 2021-04-02 19:08:02,244 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - Records store
+[INFO] 2021-04-02 19:08:02,244 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - insert into customer(customer_fname,customer_lname,customer_age) values('null','null','"po"');
+[INFO] 2021-04-02 19:08:02,245 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - ____________________________________
+[INFO] 2021-04-02 19:08:02,247 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - table is already present
+[INFO] 2021-04-02 19:08:02,248 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - Records store
+[INFO] 2021-04-02 19:08:02,249 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - insert into customer(customer_fname,customer_lname,customer_age) values('virendra','Dethe','18');
+[INFO] 2021-04-02 19:08:02,250 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - ____________________________________
+[INFO] 2021-04-02 19:08:02,250 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - table is already present
+[INFO] 2021-04-02 19:08:02,251 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - Records store
+[INFO] 2021-04-02 19:08:02,251 com.logilite.training.csvtodatabase.ReaderCs main - Application start
+[INFO] 2021-04-02 19:08:02,251 com.logilite.training.csvtodatabase.ReaderCs main - student.csv..............
+[INFO] 2021-04-02 19:08:02,251 com.logilite.training.csvtodatabase.ReaderCs main - student:..............
+[INFO] 2021-04-02 19:08:02,252 com.logilite.training.csvtodatabase.ReaderCs main - student  <--tableName
+[INFO] 2021-04-02 19:08:02,252 com.logilite.training.csvtodatabase.ReaderCs readPropertiesFile - property files are readed
+[INFO] 2021-04-02 19:08:02,252 com.logilite.training.csvtodatabase.ReaderCs readcsvfile - stud_name,stud_age,stud_class,college_name ---
+[INFO] 2021-04-02 19:08:02,252 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - insert into student(stud_name,stud_age,stud_class,college_name) values('Rahul','20','FY','D.Y.Patil Engg');
+[INFO] 2021-04-02 19:08:02,253 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - ____________________________________
+[INFO] 2021-04-02 19:08:02,253 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - table is already present
+[INFO] 2021-04-02 19:08:02,255 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - Records store
+[INFO] 2021-04-02 19:08:02,255 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - insert into student(stud_name,stud_age,stud_class,college_name) values('Sachin','22','TY','Kakani college');
+[INFO] 2021-04-02 19:08:02,256 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - ____________________________________
+[INFO] 2021-04-02 19:08:02,256 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - table is already present
+[INFO] 2021-04-02 19:08:02,257 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - Records store
+[INFO] 2021-04-02 19:08:02,257 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - insert into student(stud_name,stud_age,stud_class,college_name) values('Laxmi','19','SY','M.S.G College');
+[INFO] 2021-04-02 19:08:02,258 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - ____________________________________
+[INFO] 2021-04-02 19:08:02,258 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - table is already present
+[INFO] 2021-04-02 19:08:02,260 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - Records store
+[INFO] 2021-04-02 19:08:02,260 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - insert into student(stud_name,stud_age,stud_class,college_name) values('Dinesh','25','LY','M.I.T');
+[INFO] 2021-04-02 19:08:02,261 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - ____________________________________
+[INFO] 2021-04-02 19:08:02,261 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - table is already present
+[INFO] 2021-04-02 19:08:02,262 com.logilite.training.csvtodatabase.ReaderCs dataInsertion - Records store
+[INFO] 2021-04-02 19:08:02,262 com.logilite.training.csvtodatabase.ReaderCs main - Hi.......database operation complete..
+[INFO] 2021-04-02 19:08:02,262 com.logilite.training.csvtodatabase.ReaderCs main - Total records in csv file are:9
+[INFO] 2021-04-02 19:08:02,263 com.logilite.training.csvtodatabase.ReaderCs main - No of fails record:0
+[INFO] 2021-04-02 19:08:02,263 com.logilite.training.csvtodatabase.ReaderCs main - No of pass record from csv11:9
